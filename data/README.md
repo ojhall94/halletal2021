@@ -20,4 +20,4 @@ I used a very geeky naming convention based on [Brandon Sanderson's Mistborn ser
 
 The other two contain "a-priori" estimations of the hyperparameters for the asymptotic relation (`cadmium`) and the distribution of mode line widths (`bendalloy`) based on fits to literature data for stars where these were available.
 
-the **tracks** folder contains stellar evolutionary tracks shown in Figure 1 of the paper.
+The **tracks** folder contains stellar evolutionary tracks shown in Figure 1 of the paper.
