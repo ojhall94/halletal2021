@@ -1,6 +1,6 @@
 # halletal2021
 
-[![arXiv](http://img.shields.io/badge/arXiv-0000.00000-blue.svg?style=flat)]()
+<!--0 [![arXiv](http://img.shields.io/badge/arXiv-0000.00000-blue.svg?style=flat)]() --->
 
 This repository hosts a tidied version of the work presented in Hall et al. (2021). We've stripped away unused or broken scripts, tests, and drafts of the paper that did not appear on ArXiV. If you're interested in looking at those anyway, the full repository of everything we did on this project can be found here: https://www.github.com/ojhall94/malatium
 
@@ -20,14 +20,6 @@ Table 1 of the paper is hosted in this repository in the `data` folder, along wi
 Some data are too large to store on this repository, and were not released with the publication. If you are interested in obtaining these data (for example for reproducing the work, or using our posterior samples as priors in your own work), please contact:
 
 `oliver.hall [at] esa [dot] int`
-
-## Citation
-
-If using any of our code or results, please cite our paper using the following BibTex entry:
-
-```bibtex
-blah
-```
 
 ## Authors
 
